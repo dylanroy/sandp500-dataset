@@ -81,6 +81,7 @@ BF.B,Brown-Forman Corp.,reports,Consumer Staples,Distillers & Vintners,"Louisvil
 CHRW,C. H. Robinson Worldwide,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 COG,Cabot Oil & Gas,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,858470,1989
 CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
+CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
 CPB,Campbell Soup,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One Financial,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health Inc.,reports,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
@@ -194,7 +195,6 @@ FRC,First Republic Bank,reports,Financials,Regional Banks,"San Francisco, Califo
 FISV,Fiserv Inc,reports,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",2001-04-02,798354,1984
 FLT,FleetCor Technologies Inc,reports,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",2018-06-20,1175454,2000
 FLIR,FLIR Systems,reports,Information Technology,Electronic Equipment & Instruments,"Wilsonville, Oregon",2009-01-02,354908,1978
-FLS,Flowserve Corporation,reports,Industrials,Industrial Machinery,"Irving, Texas",2008-10-02,30625,1997
 FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",2009-08-19,37785,1883
 F,Ford Motor Company,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,37996,1903
 FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,1262039,2000
@@ -207,6 +207,7 @@ FCX,Freeport-McMoRan Inc.,reports,Materials,Copper,"Phoenix, Arizona",,831259,19
 GPS,Gap Inc.,reports,Consumer Discretionary,Apparel Retail,"San Francisco, California",1986-08-31,39911,1969
 GRMN,Garmin Ltd.,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989
 IT,Gartner Inc,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979
+GNRC,Generac Holdings,reports,Industrials,Industrial Machinery,"Waukesha, Wisconsin",2021-03-22,1474735,1959
 GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,40533,1899
 GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,40545,1892
 GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,40704,1856
@@ -348,6 +349,7 @@ NRG,NRG Energy,reports,Utilities,Independent Power Producers & Energy Traders,"P
 NUE,Nucor Corp.,reports,Materials,Steel,"Charlotte, North Carolina",1985-04-30,73309,1940
 NVDA,Nvidia Corporation,reports,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993
 NVR,"NVR, Inc.",reports,Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,906163,1980
+NXPI,NXP Semiconductors,reports,Information Technology,Semiconductors,"Eindhoven, Netherlands",2021-03-22,1413447,1953
 ORLY,O'Reilly Automotive,reports,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",2009-03-27,898173,1957
 OXY,Occidental Petroleum,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1982-12-31,797468,1920
 ODFL,Old Dominion Freight Line,reports,Industrials,Trucking,"Thomasville, North Carolina",2019-12-09,878927,1934
@@ -361,6 +363,7 @@ PH,Parker-Hannifin,reports,Industrials,Industrial Machinery,"Cleveland, Ohio",19
 PAYX,Paychex Inc.,reports,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",,723531,1971
 PAYC,Paycom,reports,Information Technology,Application Software,"Oklahoma City, Oklahoma",2020-01-28,1590955,1998
 PYPL,PayPal,reports,Information Technology,Data Processing & Outsourced Services,"San Jose, California",2015-07-20,1633917,1998
+PENN,Penn National Gaming,reports,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",2021-03-22,921738,1972
 PNR,Pentair plc,reports,Industrials,Industrial Machinery,"Worsley, UK",2012-10-01,77360,1966
 PBCT,People's United Financial,reports,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",2008-11-13,1378946,1842
 PEP,PepsiCo Inc.,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,77476,1898
@@ -414,7 +417,6 @@ NOW,ServiceNow,reports,Information Technology,Systems Software,"Santa Clara, Cal
 SHW,Sherwin-Williams,reports,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,89800,1866
 SPG,Simon Property Group Inc,reports,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,1063761,2003
 SWKS,Skyworks Solutions,reports,Information Technology,Semiconductors,"Woburn, Massachusetts",2015-03-12,4127,2002
-SLG,SL Green Realty,reports,Real Estate,Office REITs,"New York, New York",2015-03-20,1040971,1997
 SNA,Snap-on,reports,Industrials,Industrial Machinery,"Kenosha, Wisconsin",1982-09-30,91440,1920
 SO,Southern Company,reports,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,92122,1945
 LUV,Southwest Airlines,reports,Industrials,Airlines,"Dallas, Texas",1994-07-01,92380,1967
@@ -473,7 +475,6 @@ VFC,VF Corporation,reports,Consumer Discretionary,"Apparel, Accessories & Luxury
 VIAC,ViacomCBS,reports,Communication Services,Movies & Entertainment,"New York, New York",,813828,2019 (1952)
 VTRS,Viatris,reports,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,1792044,1961
 V,Visa Inc.,reports,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",2009-12-21,1403161,1958
-VNT,Vontier,reports,Information Technology,Electronic Equipment & Instruments,"Raleigh, North Carolina",2020-10-09,1786842,2019
 VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York, New York",,899689,1982
 VMC,Vulcan Materials,reports,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,1396009,1909
 WRB,W. R. Berkley Corporation,reports,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,11544,1967
@@ -496,7 +497,6 @@ WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa,
 WLTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016
 WYNN,Wynn Resorts Ltd,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002
 XEL,Xcel Energy Inc,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,72903,1909
-XRX,Xerox,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Norwalk, Connecticut",,1770450,2017 (1906)
 XLNX,Xilinx,reports,Information Technology,Semiconductors,"San Jose, California",1999-11-08,743988,1984
 XYL,Xylem Inc.,reports,Industrials,Industrial Machinery,"White Plains, New York",2011-11-01,1524472,2011
 YUM,Yum! Brands Inc,reports,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,1041061,1997
