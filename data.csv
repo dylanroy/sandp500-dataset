@@ -25,7 +25,7 @@ GOOGL,Alphabet (Class A),reports,Communication Services,Interactive Media & Serv
 GOOG,Alphabet (Class C),reports,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,1652044,1998
 MO,Altria Group,reports,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,764180,1985
 AMZN,Amazon,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,1018724,1994
-AMCR,Amco,reports,Materials,Paper Packaging,"Warmley, Bristol, England",2019-06-07,1748790,2019 (1860)
+AMCR,Amcor,reports,Materials,Paper Packaging,"Zurich, Switzerland",2019-06-07,1748790,2019 (1860)
 AEE,Ameren Corp,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,1002910,1902
 AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,6201,1934
 AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,4904,1906
@@ -42,7 +42,7 @@ ADI,Analog Devices,reports,Information Technology,Semiconductors,"Norwood, Massa
 ANSS,Ansys,reports,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,1013462,1969
 ANTM,Anthem,reports,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,1156039,2014 (1946)
 AON,Aon,reports,Financials,Insurance Brokers,"London, England",1996-04-23,315293,1982 (1919)
-AOS,A.O. Smith,reports,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,91142,1916
+AOS,A. O. Smith,reports,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,91142,1916
 APA,APA Corporation,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1997-07-28,6769,1954
 AAPL,Apple,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,320193,1977
 AMAT,Applied Materials,reports,Information Technology,Semiconductor Equipment,"Santa Clara, California",1995-03-16,6951,1967
@@ -217,7 +217,7 @@ GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California"
 GL,Globe Life,reports,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,320335,1900
 GPN,Global Payments,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,1123360,2000
 GS,Goldman Sachs,reports,Financials,Investment Banking & Brokerage,New York City,2002-07-22,886982,1869
-GWW,W.W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,277135,1927
+GWW,W. W. Grainger,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,277135,1927
 HAL,Halliburton,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,45012,1919
 HBI,Hanesbrands,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",2015-03-20,1359841,2000
 HIG,The Hartford,reports,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,874766,1810
@@ -260,7 +260,7 @@ IQV,IQVIA,reports,Health Care,Life Sciences Tools & Services,"Durham, North Caro
 IRM,Iron Mountain,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
 JKHY,Jack Henry & Associates,reports,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",2018-11-13,779152,1976
 J,Jacobs Engineering Group,reports,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,52988,1947
-JBHT,J.B. Hunt,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,728535,1961
+JBHT,J. B. Hunt,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,728535,1961
 SJM,JM Smucker,reports,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897
 JNJ,Johnson & Johnson,reports,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,200406,1886
 JCI,Johnson Controls,reports,Industrials,Building Products,"Cork, Ireland",2010-08-27,833444,1885
