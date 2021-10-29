@@ -188,7 +188,6 @@ EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington
 EXR,Extra Space Storage,reports,Real Estate,Specialized REITs,"Salt Lake City, Utah",2016-01-19,1289490,1977
 XOM,ExxonMobil,reports,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,34088,1999
 FFIV,F5 Networks,reports,Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,1048695,1996
-FB,[[Meta]],reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004
 FAST,Fastenal,reports,Industrials,Building Products,"Winona, Minnesota",2008-09-15,815556,1967
 FRT,Federal Realty Investment Trust,reports,Real Estate,Retail REITs,"Rockville, Maryland",2016-02-01,34903,1962
 FDX,FedEx,reports,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1980-12-31,1048911,1971
@@ -312,6 +311,7 @@ MCD,McDonald's,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",19
 MCK,McKesson Corporation,reports,Health Care,Health Care Distributors,"Irving, Texas",,927653,1833
 MDT,Medtronic,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,1613103,1949
 MRK,Merck & Co.,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,310158,1891
+FB,Meta,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004
 MET,MetLife,reports,Financials,Life & Health Insurance,"New York City, New York",,1099219,1868
 MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,1037646,1945
 MGM,MGM Resorts International,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,789570,1986
