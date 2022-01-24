@@ -100,7 +100,7 @@ CNP,CenterPoint Energy,reports,Utilities,Multi-Utilities,"Houston, Texas",1985-0
 CDAY,Ceridian,reports,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,1725057,1992
 CERN,Cerner,reports,Health Care,Health Care Technology,"North Kansas City, Missouri",2010-04-30,804753,1979
 CF,CF Industries,reports,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,1324404,1946
-CRL,Charles River Laboratories,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,1100682,1947
+CRL,Charles River,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,1100682,1947
 SCHW,Charles Schwab,reports,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,316709,1971
 CHTR,Charter Communications,reports,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,1091667,1993
 CVX,Chevron,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,93410,1879
@@ -126,7 +126,7 @@ CAG,Conagra Brands,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Ill
 COP,ConocoPhillips,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,1163165,2002
 ED,Con Edison,reports,Utilities,Electric Utilities,"New York City, New York",,1047862,1823
 STZ,Constellation Brands,reports,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,16918,1945
-COO,The Cooper Companies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
+COO,CooperCompanies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
 CPRT,Copart,reports,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982
 GLW,Corning,reports,Information Technology,Electronic Components,"Corning, New York",,24741,1851
 CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",2019-06-03,1755672,2019
@@ -203,7 +203,7 @@ FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals,"Phil
 F,Ford,reports,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,37996,1903
 FTNT,Fortinet,reports,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,1262039,2000
 FTV,Fortive,reports,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,1659166,2016
-FBHS,Fortune Brands Home & Security,reports,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,1519751,2011 (1969)
+FBHS,Fortune Brands,reports,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,1519751,2011 (1969)
 FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,1754301,2019
 FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,1754301,2019
 BEN,Franklin Resources,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,38777,1947
