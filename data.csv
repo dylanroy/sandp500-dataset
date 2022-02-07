@@ -126,6 +126,7 @@ CAG,Conagra Brands,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Ill
 COP,ConocoPhillips,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,1163165,2002
 ED,Con Edison,reports,Utilities,Electric Utilities,"New York City, New York",,1047862,1823
 STZ,Constellation Brands,reports,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,16918,1945
+CEG,Constellation Energy,reports,Utilities,Multi-Utilities,"Baltimore, Maryland",2022-02-02,1868275,1999
 COO,CooperCompanies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
 CPRT,Copart,reports,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982
 GLW,Corning,reports,Information Technology,Electronic Components,"Corning, New York",,24741,1851
@@ -208,7 +209,6 @@ FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertain
 FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,1754301,2019
 BEN,Franklin Resources,reports,Financials,Asset Management & Custody Banks,"San Mateo, California",,38777,1947
 FCX,Freeport-McMoRan,reports,Materials,Copper,"Phoenix, Arizona",,831259,1912
-GPS,Gap,reports,Consumer Discretionary,Apparel Retail,"San Francisco, California",1986-08-31,39911,1969
 GRMN,Garmin,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989
 IT,Gartner,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979
 GE,GE,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,40545,1892
