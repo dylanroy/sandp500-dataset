@@ -310,12 +310,12 @@ MCD,McDonald's,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",19
 MCK,McKesson Corporation,reports,Health Care,Health Care Distributors,"Irving, Texas",,927653,1833
 MDT,Medtronic,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,1613103,1949
 MRK,Merck,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,310158,1891
-FB,Meta Platforms,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004
+FB,Meta,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004
 MET,MetLife,reports,Financials,Life & Health Insurance,"New York City, New York",,1099219,1868
 MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,1037646,1945
-MGM,MGM Resorts International,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,789570,1986
-MCHP,Microchip Technology,reports,Information Technology,Semiconductors,"Chandler, Arizona",2007-09-07,827054,1989
-MU,Micron Technology,reports,Information Technology,Semiconductors,"Boise, Idaho",1994-09-27,723125,1978
+MGM,MGM Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,789570,1986
+MCHP,Microchip,reports,Information Technology,Semiconductors,"Chandler, Arizona",2007-09-07,827054,1989
+MU,Micron,reports,Information Technology,Semiconductors,"Boise, Idaho",1994-09-27,723125,1978
 MSFT,Microsoft,reports,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975
 MAA,Mid-America Apartments,reports,Real Estate,Residential REITs,"Memphis, Tennessee",2016-12-02,912595,1977
 MRNA,Moderna,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2021-07-21,1682852,2010
@@ -340,6 +340,7 @@ NEE,NextEra Energy,reports,Utilities,Multi-Utilities,"Juno Beach, Florida",1976-
 NLSN,Nielsen Holdings,reports,Industrials,Research & Consulting Services,"New York City, New York",2013-07-09,1492633,1923
 NKE,Nike,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1988-11-30,320187,1964
 NI,NiSource,reports,Utilities,Multi-Utilities,"Merrillville, Indiana",,1111711,1912
+NDSN,Nordson,reports,Industrials,Industrial Machinery,"Westlake, Ohio",2022-02-15,72331,1935
 NSC,Norfolk Southern,reports,Industrials,Railroads,"Norfolk, Virginia",1957-03-04,702165,1881/1894 (1980)
 NTRS,Northern Trust,reports,Financials,Asset Management & Custody Banks,"Chicago, Illinois",,73124,1889
 NOC,Northrop Grumman,reports,Industrials,Aerospace & Defense,"West Falls Church, Virginia",1985-06-30,1133421,"1994 (Northrop 1939, Grumman 1930)"
@@ -497,7 +498,6 @@ WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa,
 WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, England",2016-01-05,1140536,2016
 WYNN,Wynn Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002
 XEL,Xcel Energy,reports,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,72903,1909
-XLNX,Xilinx,reports,Information Technology,Semiconductors,"San Jose, California",1999-11-08,743988,1984
 XYL,Xylem,reports,Industrials,Industrial Machinery,"White Plains, New York",2011-11-01,1524472,2011
 YUM,Yum! Brands,reports,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,1041061,1997
 ZBRA,Zebra Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",2019-12-23,877212,1969
