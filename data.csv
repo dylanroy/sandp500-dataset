@@ -18,7 +18,7 @@ APD,Air Products,reports,Materials,Industrial Gases,"Allentown, Pennsylvania",19
 AKAM,Akamai,reports,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,1086222,1998
 ALK,Alaska Air Group,reports,Industrials,Airlines,"Seattle, Washington",2016-05-13,766421,1985
 ALB,Albemarle,reports,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,915913,1994
-ARE,Alexandria Real Estate Equities,reports,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994
+ARE,Alexandria,reports,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994
 ALGN,Align,reports,Health Care,Health Care Supplies,"San Jose, California",2017-06-19,1097149,1997
 ALLE,Allegion,reports,Industrials,Building Products,"New York City, New York",2013-12-02,1579241,1908
 LNT,Alliant Energy,reports,Utilities,Electric Utilities,"Madison, Wisconsin",2016-07-01,352541,1917
@@ -80,14 +80,14 @@ AVGO,Broadcom,reports,Information Technology,Semiconductors,"San Jose, Californi
 BR,Broadridge,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
 BRO,Brown & Brown,reports,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,79282,1939
 BF.B,Brown–Forman,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
-CHRW,C. H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
+CHRW,C.H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence,reports,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
 CPB,Campbell's,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,reports,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
 KMX,CarMax,reports,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",2010-06-28,1170010,1993
-CCL,Carnival Corporation,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
+CCL,Carnival,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
 CARR,Carrier Global,reports,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,1783180,2020 (1915)
 CTLT,Catalent,reports,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,1596783,2007
 CAT,Caterpillar,reports,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",1957-03-04,18230,1925
@@ -152,6 +152,7 @@ DFS,Discover,reports,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-
 DISCA,Discovery (Series A),reports,Communication Services,Broadcasting,"New York City, New York",2010-03-01,1437107,1985
 DISCK,Discovery (Series C),reports,Communication Services,Broadcasting,"New York City, New York",2014-08-07,1437107,1985
 DISH,Dish,reports,Communication Services,Cable & Satellite,"Meridian, Colorado",2017-03-13,1001082,1980
+DIS,Disney,reports,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
 DG,Dollar General,reports,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",2012-12-03,29534,1939
 DLTR,Dollar Tree,reports,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",2011-12-19,935703,1986
 D,Dominion Energy,reports,Utilities,Electric Utilities,"Richmond, Virginia",,715957,1983
@@ -216,7 +217,7 @@ GNRC,Generac,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wi
 GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,40533,1899
 GIS,General Mills,reports,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,40704,1856
 GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,40987,1925
-GILD,Gilead Sciences,reports,Health Care,Biotechnology,"Foster City, California",2004-07-01,882095,1987
+GILD,Gilead,reports,Health Care,Biotechnology,"Foster City, California",2004-07-01,882095,1987
 GL,Globe Life,reports,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,320335,1900
 GPN,Global Payments,reports,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,1123360,2000
 GM,GM,reports,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1467858,1908
@@ -228,8 +229,8 @@ HAS,Hasbro,reports,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Isl
 HCA,HCA Healthcare,reports,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,860730,1968
 PEAK,Healthpeak Properties,reports,Real Estate,Health Care REITs,"Long Beach, California",2008-03-31,765880,1985
 HSIC,Henry Schein,reports,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,1000228,1932
-HSY,The Hershey Company,reports,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894
-HES,Hess Corporation,reports,Energy,Integrated Oil & Gas,"New York City, New York",1984-05-31,4447,1919
+HSY,Hershey's,reports,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894
+HES,Hess,reports,Energy,Integrated Oil & Gas,"New York City, New York",1984-05-31,4447,1919
 HPE,Hewlett Packard Enterprise,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015
 HLT,Hilton Worldwide,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919
 HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,859737,1985
@@ -242,7 +243,7 @@ HPQ,HP,reports,Information Technology,"Technology Hardware, Storage & Peripheral
 HUM,Humana,reports,Health Care,Managed Health Care,"Louisville, Kentucky",,49071,1961
 HBAN,Huntington Bancshares,reports,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,49196,1866
 HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,1501585,2011
-IEX,IDEX Corporation,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",2019-08-09,832101,1988
+IEX,IDEX,reports,Industrials,Industrial Machinery,"Lake Forest, Illinois",2019-08-09,832101,1988
 IDXX,Idexx Laboratories,reports,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,874716,1983
 INFO,IHS Markit,reports,Industrials,Research & Consulting Services,"London, England",2017-06-02,1598014,1959
 ITW,Illinois Tool Works,reports,Industrials,Industrial Machinery,"Glenview, Illinois",1986-02-28,49826,1912
@@ -483,9 +484,8 @@ WRB,W. R. Berkley Corporation,reports,Financials,Property & Casualty Insurance,"
 WAB,Wabtec,reports,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,943452,1999 (1869)
 WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,104169,1962
 WBA,Walgreens Boots Alliance,reports,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,1618921,2014
-DIS,The Walt Disney Company,reports,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
 WM,Waste Management,reports,Industrials,Environmental & Facilities Services,"Houston, Texas",,823768,1968
-WAT,Waters Corporation,reports,Health Care,Health Care Distributors,"Milford, Massachusetts",,1000697,1958
+WAT,Waters,reports,Health Care,Health Care Distributors,"Milford, Massachusetts",,1000697,1958
 WEC,WEC Energy Group,reports,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,783325,1896
 WFC,Wells Fargo,reports,Financials,Diversified Banks,"San Francisco, California",1976-06-30,72971,1852
 WELL,Welltower,reports,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,766704,1970
@@ -493,7 +493,7 @@ WST,West Pharmaceutical Services,reports,Health Care,Health Care Supplies,"Exton
 WDC,Western Digital,reports,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,106040,1970
 WRK,WestRock,reports,Materials,Paper Packaging,"Atlanta, Georgia",,1732845,2015
 WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Seattle, Washington",,106535,1900
-WHR,Whirlpool Corporation,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
+WHR,Whirlpool,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
 WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, England",2016-01-05,1140536,2016
 WYNN,Wynn Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002
