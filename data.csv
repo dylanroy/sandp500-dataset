@@ -184,7 +184,7 @@ EL,Estée Lauder Companies,reports,Consumer Staples,Personal Products,"New York 
 ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,1370637,2005
 RE,Everest,reports,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
 EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1711269,1909
-ES,Eversource,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",,72741,1966
+ES,Eversource,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,72741,1966
 EXC,Exelon,reports,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,1109357,2000
 EXPE,Expedia Group,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2007-10-02,1324424,1996
 EXPD,Expeditors,reports,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,746515,1979
@@ -428,7 +428,7 @@ SEDG,SolarEdge,reports,Information Technology,Semiconductor Equipment,"Herzliya,
 SO,Southern Company,reports,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,92122,1945
 LUV,Southwest Airlines,reports,Industrials,Airlines,"Dallas, Texas",1994-07-01,92380,1967
 SWK,Stanley Black & Decker,reports,Industrials,Industrial Machinery,"New Britain, Connecticut",1982-09-30,93556,1843
-SBUX,Starbucks,reports,Consumer Discretionary,Restaurants,"Seattle, Washington",2007-06-07,829224,1971
+SBUX,Starbucks,reports,Consumer Discretionary,Restaurants,"Seattle, Washington",2000-06-07,829224,1971
 STT,State Street,reports,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",,93751,1792
 STE,Steris,reports,Health Care,Health Care Equipment,"Dublin, Ireland",2019-12-23,1757898,1985
 SYK,Stryker,reports,Health Care,Health Care Equipment,"Kalamazoo, Michigan",2000-12-12,310764,1941
@@ -479,7 +479,7 @@ VRTX,Vertex,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2013-09
 VFC,VF Corporation,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1979-06-30,103379,1899
 VTRS,Viatris,reports,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,1792044,1961
 V,Visa,reports,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",2009-12-21,1403161,1958
-VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York City, New York",,899689,1982
+VNO,Vornado Realty Trust,reports,Real Estate,Office REITs,"New York City, New York",2005,899689,1982
 VMC,Vulcan Materials,reports,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,1396009,1909
 WAB,Wabtec,reports,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,943452,1999 (1869)
 WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,104169,1962
