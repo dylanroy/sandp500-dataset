@@ -83,6 +83,7 @@ BF.B,Brown–Forman,reports,Consumer Staples,Distillers & Vintners,"Louisville, 
 CHRW,C.H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence,reports,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
+CPT,Camden,reports,Real Estate,Residential REITs,"Houston, Texas",2022-04-04,906345,1981
 CPB,Campbell's,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,reports,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
@@ -369,7 +370,6 @@ PAYC,Paycom,reports,Information Technology,Application Software,"Oklahoma City, 
 PYPL,PayPal,reports,Information Technology,Data Processing & Outsourced Services,"San Jose, California",2015-07-20,1633917,1998
 PENN,Penn National Gaming,reports,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",2021-03-22,921738,1972
 PNR,Pentair,reports,Industrials,Industrial Machinery,"Worsley, England",2012-10-01,77360,1966
-PBCT,People's United Financial,reports,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",2008-11-13,1378946,1842
 PEP,PepsiCo,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,77476,1898
 PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
 PFE,Pfizer,reports,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,78003,1849
