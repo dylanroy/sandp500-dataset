@@ -150,8 +150,6 @@ DXCM,DexCom,reports,Health Care,Health Care Equipment,"San Diego, California",20
 FANG,Diamondback,reports,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,1539838,2007
 DLR,Digital Realty,reports,Real Estate,Specialized REITs,"Austin, Texas",2016-05-18,1297996,2004
 DFS,Discover,reports,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-02,1393612,1985
-DISCA,Discovery (Series A),reports,Communication Services,Broadcasting,"New York City, New York",2010-03-01,1437107,1985
-DISCK,Discovery (Series C),reports,Communication Services,Broadcasting,"New York City, New York",2014-08-07,1437107,1985
 DISH,Dish,reports,Communication Services,Cable & Satellite,"Meridian, Colorado",2017-03-13,1001082,1980
 DIS,Disney,reports,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
 DG,Dollar General,reports,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",2012-12-03,29534,1939
@@ -484,6 +482,7 @@ VMC,Vulcan Materials,reports,Materials,Construction Materials,"Birmingham, Alaba
 WAB,Wabtec,reports,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,943452,1999 (1869)
 WMT,Walmart,reports,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,104169,1962
 WBA,Walgreens Boots Alliance,reports,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,1618921,2014
+WBD,Warner Brothers Discovery,reports,Communication Services,Broadcasting,"New York City, New York",2022-04-11,1437107,2022
 WM,Waste Management,reports,Industrials,Environmental & Facilities Services,"Houston, Texas",,823768,1968
 WAT,Waters,reports,Health Care,Health Care Distributors,"Milford, Massachusetts",,1000697,1958
 WEC,WEC Energy Group,reports,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,783325,1896
