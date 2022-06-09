@@ -308,7 +308,7 @@ MCD,McDonald's,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",19
 MCK,McKesson,reports,Health Care,Health Care Distributors,"Irving, Texas",,927653,1833
 MDT,Medtronic,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,1613103,1949
 MRK,Merck,reports,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,310158,1891
-FB,Meta,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004
+META,Meta,reports,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,1326801,2004
 MET,MetLife,reports,Financials,Life & Health Insurance,"New York City, New York",,1099219,1868
 MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,1037646,1945
 MGM,MGM Resorts,reports,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,789570,1986
@@ -463,9 +463,9 @@ UAA,Under Armour (Class A),reports,Consumer Discretionary,"Apparel, Accessories 
 UA,Under Armour (Class C),reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",2016-04-08,1336917,1996
 UNP,Union Pacific,reports,Industrials,Railroads,"Omaha, Nebraska",1957-03-04,100885,1862
 UAL,United Airlines,reports,Industrials,Airlines,"Chicago, Illinois",2015-09-03,100517,1967
-UNH,UnitedHealth Group,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,731766,1977
 UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,1090727,1907
 URI,United Rentals,reports,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",2014-09-20,1067701,1997
+UNH,UnitedHealth Group,reports,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,731766,1977
 UHS,Universal Health Services,reports,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,352915,1979
 VLO,Valero,reports,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",,1035002,1980
 VTR,Ventas,reports,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,740260,1998
