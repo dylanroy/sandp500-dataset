@@ -13,7 +13,6 @@ AAP,Advance Auto Parts,reports,Consumer Discretionary,Automotive Retail,"Raleigh
 AES,AES Corporation,reports,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1998-10-02,874761,1981
 AFL,Aflac,reports,Financials,Life & Health Insurance,"Columbus, Georgia",1999-05-28,4977,1955
 A,Agilent Technologies,reports,Health Care,Health Care Equipment,"Santa Clara, California",2000-06-05,1090872,1999
-AIG,AIG,reports,Financials,Property & Casualty Insurance,"New York City, New York",1980-03-31,5272,1919
 APD,Air Products and Chemicals,reports,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,2969,1940
 AKAM,Akamai,reports,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,1086222,1998
 ALK,Alaska Air Group,reports,Industrials,Airlines,"Seattle, Washington",2016-05-13,766421,1985
@@ -33,6 +32,7 @@ AEE,Ameren,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,10
 AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,6201,1934
 AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,4904,1906
 AXP,American Express,reports,Financials,Consumer Finance,"New York City, New York",1976-06-30,4962,1850
+AIG,American International Group,reports,Financials,Property & Casualty Insurance,"New York City, New York",1980-03-31,5272,1919
 AMT,American Tower,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2007-11-19,1053507,1995
 AWK,American Water Works,reports,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,1410636,1886
 AMP,Ameriprise Financial,reports,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,820027,1894
@@ -78,19 +78,19 @@ BXP,Boston Properties,reports,Real Estate,Office REITs,"Boston, Massachusetts",2
 BSX,Boston Scientific,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1995-02-24,885725,1979
 BMY,Bristol Myers Squibb,reports,Health Care,Health Care Distributors,"New York City, New York",1957-03-04,14272,1989
 AVGO,Broadcom Inc.,reports,Information Technology,Semiconductors,"San Jose, California",2014-05-08,1730168,1961
-BR,Broadridge,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
+BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
 BRO,Brown & Brown,reports,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,79282,1939
 BF.B,Brown–Forman,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
 CHRW,C.H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
 CPT,Camden Property Trust,reports,Real Estate,Residential REITs,"Houston, Texas",2022-04-04,906345,1981
-CPB,Campbell's,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
+CPB,Campbell Soup Company,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,reports,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
 KMX,CarMax,reports,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",2010-06-28,1170010,1993
 CCL,Carnival,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
-CARR,Carrier,reports,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,1783180,2020 (1915)
+CARR,Carrier Global,reports,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,1783180,2020 (1915)
 CTLT,Catalent,reports,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,1596783,2007
 CAT,Caterpillar Inc.,reports,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",1957-03-04,18230,1925
 CBOE,Cboe Global Markets,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",2017-03-01,1374310,1973
@@ -104,7 +104,7 @@ CF,CF Industries,reports,Materials,Fertilizers & Agricultural Chemicals,"Deerfie
 CRL,Charles River Laboratories,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,1100682,1947
 SCHW,Charles Schwab Corporation,reports,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,316709,1971
 CHTR,Charter Communications,reports,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,1091667,1993
-CVX,Chevron,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,93410,1879
+CVX,Chevron Corporation,reports,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,93410,1879
 CMG,Chipotle Mexican Grill,reports,Consumer Discretionary,Restaurants,"Newport Beach, California",2011-04-28,1058090,1993
 CB,Chubb Limited,reports,Financials,Property & Casualty Insurance,"Zurich, Switzerland",2010-07-15,896159,1985
 CHD,Church & Dwight,reports,Consumer Staples,Household Products,"Ewing, New Jersey",2015-12-29,313927,1847
