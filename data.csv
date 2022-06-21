@@ -257,7 +257,6 @@ IFF,International Flavors & Fragrances,reports,Materials,Specialty Chemicals,"Ne
 INTU,Intuit,reports,Information Technology,Application Software,"Mountain View, California",2000-12-05,896878,1983
 ISRG,Intuitive Surgical,reports,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,1035267,1995
 IVZ,Invesco,reports,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,914208,1935
-IPGP,IPG Photonics,reports,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",2018-03-07,1111928,1990
 IQV,IQVIA,reports,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1478242,1982
 IRM,Iron Mountain,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
 JBHT,J.B. Hunt,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,728535,1961
@@ -268,6 +267,7 @@ JCI,Johnson Controls,reports,Industrials,Building Products,"Cork, Ireland",2010-
 JPM,JPMorgan Chase,reports,Financials,Diversified Banks,"New York City, New York",1975-06-30,19617,2000 (1799 / 1871)
 JNPR,Juniper Networks,reports,Information Technology,Communications Equipment,"Sunnyvale, California",2006-06-02,1043604,1996
 K,Kellogg's,reports,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",1989-09-11,55067,1906
+KDP,Keurig Dr Pepper,reports,Consumer Staples,Soft Drinks,"Burlington, Massachusetts",2022-06-21,1418135,1981
 KEY,KeyCorp,reports,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,91576,1825
 KEYS,Keysight,reports,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,1601046,2014
 KMB,Kimberly-Clark,reports,Consumer Staples,Household Products,"Irving, Texas",1957-03-04,55785,1872
@@ -353,6 +353,7 @@ ORLY,O'Reilly Auto Parts,reports,Consumer Discretionary,Specialty Stores,"Spring
 OXY,Occidental Petroleum,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1982-12-31,797468,1920
 ODFL,Old Dominion,reports,Industrials,Trucking,"Thomasville, North Carolina",2019-12-09,878927,1934
 OMC,Omnicom Group,reports,Communication Services,Advertising,"New York City, New York",,29989,1986
+ON,ON Semiconductor,reports,Information Technology,Semiconductors,"Phoenix, Arizona",2022-06-21,1097864,1999
 OKE,Oneok,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",2010-03-15,1039684,1906
 ORCL,Oracle Corporation,reports,Information Technology,Application Software,"Austin, Texas",1989-08-31,1341439,1977
 OGN,Organon & Co.,reports,Health Care,Pharmaceuticals,"Jersey City, New Jersey",2021-06-03,1821825,2021
@@ -458,8 +459,6 @@ TSN,Tyson Foods,reports,Consumer Staples,Packaged Foods & Meats,"Springdale, Ark
 USB,U.S. Bank,reports,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104,1968
 UDR,"UDR, Inc.",reports,Real Estate,Residential REITs,"Highlands Ranch, Colorado",2016-03-07,74208,1972
 ULTA,Ulta Beauty,reports,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",2016-04-18,1403568,1990
-UAA,Under Armour (Class A),reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",2014-05-01,1336917,1996
-UA,Under Armour (Class C),reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",2016-04-08,1336917,1996
 UNP,Union Pacific Corporation,reports,Industrials,Railroads,"Omaha, Nebraska",1957-03-04,100885,1862
 UAL,United Airlines Holdings,reports,Industrials,Airlines,"Chicago, Illinois",2015-09-03,100517,1967
 UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,1090727,1907
