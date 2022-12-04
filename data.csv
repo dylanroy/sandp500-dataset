@@ -355,7 +355,7 @@ OXY,Occidental Petroleum,reports,Energy,Oil & Gas Exploration & Production,"Hous
 ODFL,Old Dominion,reports,Industrials,Trucking,"Thomasville, North Carolina",2019-12-09,878927,1934
 OMC,Omnicom Group,reports,Communication Services,Advertising,"New York City, New York",,29989,1986
 ON,ON Semiconductor,reports,Information Technology,Semiconductors,"Phoenix, Arizona",2022-06-21,1097864,1999
-OKE,Oneok,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",2010-03-15,1039684,1906
+OKE,ONEOK,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",2010-03-15,1039684,1906
 ORCL,Oracle Corporation,reports,Information Technology,Application Software,"Austin, Texas",1989-08-31,1341439,1977
 OGN,Organon & Co.,reports,Health Care,Pharmaceuticals,"Jersey City, New Jersey",2021-06-03,1821825,2021
 OTIS,Otis Worldwide,reports,Industrials,Industrial Machinery,"Farmington, Connecticut",2020-04-03,1781335,2020 (1853)
@@ -370,7 +370,7 @@ PNR,Pentair,reports,Industrials,Industrial Machinery,"Worsley, United Kingdom",2
 PEP,PepsiCo,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,77476,1898
 PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
 PFE,Pfizer,reports,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,78003,1849
-PCG,PG&E,reports,Utilities,Multi-Utilities,"San Francisco, California",2022-10-03,1004980,1905
+PCG,PG&E Corporation,reports,Utilities,Multi-Utilities,"San Francisco, California",2022-10-03,1004980,1905
 PM,Philip Morris International,reports,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,1413329,2008 (1847)
 PSX,Phillips 66,reports,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,1534701,2012 (1917)
 PNW,Pinnacle West,reports,Utilities,Multi-Utilities,"Phoenix, Arizona",,764622,1985
