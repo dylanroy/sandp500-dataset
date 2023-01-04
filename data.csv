@@ -212,7 +212,8 @@ BEN,Franklin Templeton,reports,Financials,Asset Management & Custody Banks,"San 
 FCX,Freeport-McMoRan,reports,Materials,Copper,"Phoenix, Arizona",,831259,1912
 GRMN,Garmin,reports,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989
 IT,Gartner,reports,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979
-GEN,Gen Digital Inc.,reports,Information Technology,Application Software,"Tempe, Arizona",2003-03-25,849399,1982
+GEHC,GE HealthCare,reports,Health Care,,"Chicago, Illinois",2023-01-04,1932393,1994
+GEN,Gen Digital,reports,Information Technology,Application Software,"Tempe, Arizona",2003-03-25,849399,1982
 GNRC,Generac,reports,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,1474735,1959
 GD,General Dynamics,reports,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,40533,1899
 GE,General Electric,reports,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,40545,1892
@@ -234,7 +235,7 @@ HES,Hess Corporation,reports,Energy,Integrated Oil & Gas,"New York City, New Yor
 HPE,Hewlett Packard Enterprise,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015
 HLT,Hilton Worldwide,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919
 HOLX,Hologic,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,859737,1985
-HD,The Home Depot,reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978
+HD,Home Depot (The),reports,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978
 HON,Honeywell,reports,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1964-03-31,773840,1906
 HRL,Hormel Foods,reports,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,48465,1891
 HST,Host Hotels & Resorts,reports,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,1070750,1993
