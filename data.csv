@@ -123,7 +123,7 @@ CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvan
 CMA,Comerica,Financials,Diversified Banks,"Dallas, Texas",1995-12-01,28412,1849
 CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,23217,1919
 COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,1163165,2002
-ED,Consolidated Edison,Utilities,Electric Utilities,"New York City, New York",,1047862,1823
+ED,Consolidated Edison,Utilities,Electric Utilities,"New York City, New York",1957-03-04,1047862,1823
 STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,16918,1945
 CEG,Constellation Energy,Utilities,Multi-Utilities,"Baltimore, Maryland",2022-02-02,1868275,1999
 COO,CooperCompanies,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
@@ -162,7 +162,7 @@ DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1976-06
 DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-04-02,1666700,2017
 DXC,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",2017-04-04,1688568,2017
 EMN,Eastman Chemical Company,Materials,Diversified Chemicals,"Kingsport, Tennessee",1994-01-01,915389,1920
-ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",,1551182,1911
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1957-03-04,1551182,1911
 EBAY,eBay,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",2002-07-22,1065088,1995
 ECL,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1989-01-31,31462,1923
 EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",1957-03-04,827052,1886
@@ -216,7 +216,7 @@ GEHC,GE HealthCare,Health Care,Health Care Technology,"Chicago, Illinois",2023-0
 GEN,Gen Digital,Information Technology,Application Software,"Tempe, Arizona",2003-03-25,849399,1982
 GNRC,Generac,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,1474735,1959
 GD,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,40533,1899
-GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,40545,1892
+GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",1957-03-04,40545,1892
 GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,40704,1856
 GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1467858,1908
 GPC,Genuine Parts Company,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,40987,1925
@@ -328,7 +328,7 @@ MNST,Monster Beverage,Consumer Staples,Soft Drinks,"Corona, California",2012-06-
 MCO,Moody's Corporation,Financials,Financial Exchanges & Data,"New York City, New York",,1059556,1909
 MS,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York City, New York",,895421,1935
 MOS,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,1285785,2004 (1865 / 1909)
-MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",,68505,1928 (2011)
+MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1957-03-04,68505,1928 (2011)
 MSCI,MSCI,Financials,Financial Exchanges & Data,"New York City, New York",2018-04-04,1408198,1969
 NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,"New York City, New York",2008-10-22,1120193,1971
 NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1999-06-25,1002047,1992
