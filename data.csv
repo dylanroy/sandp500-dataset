@@ -209,7 +209,7 @@ FTV,Fortive,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,16
 FOXA,Fox Corporation (Class A),Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,1754301,2019
 FOX,Fox Corporation (Class B),Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,1754301,2019
 BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,"San Mateo, California",1998-04-30,38777,1947
-FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",2007-07-23,831259,1912
+FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",,831259,1912
 GRMN,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989
 IT,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979
 GEHC,GE HealthCare,Health Care,Health Care Technology,"Chicago, Illinois",2023-01-04,1932393,1994
@@ -241,7 +241,7 @@ HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",200
 HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,1070750,1993
 HWM,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1964-03-31,4281,2016
 HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,47217,1939 (2015)
-HUM,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",2008-07-21,49071,1961
+HUM,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",,49071,1961
 HBAN,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",1997-08-28,49196,1866
 HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,1501585,2011
 IBM,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,51143,1911
@@ -435,7 +435,7 @@ SYF,Synchrony Financial,Financials,Consumer Finance,"Stamford, Connecticut",2015
 SNPS,Synopsys,Information Technology,Application Software,"Mountain View, California",2017-03-16,883241,1986
 SYY,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",1986-12-31,96021,1969
 TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",2019-07-15,1283699,1994
-TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",2010-03-22,1113169,1937
+TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937
 TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,"New York City, New York",2018-03-19,946581,1993
 TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2004-09-01,1116132,2017
 TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2022-10-12,1389170,2005
@@ -482,7 +482,7 @@ WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",
 WMT,Walmart,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,104169,1962
 WBD,Warner Bros. Discovery,Communication Services,Broadcasting,"New York City, New York",2022-04-11,1437107,2022
 WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",<1985?,823768,1968
-WAT,Waters Corporation,Health Care,Health Care Distributors,"Milford, Massachusetts",2005-12-22,1000697,1958
+WAT,Waters Corporation,Health Care,Health Care Distributors,"Milford, Massachusetts",,1000697,1958
 WEC,WEC Energy Group,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,783325,1896
 WFC,Wells Fargo,Financials,Diversified Banks,"San Francisco, California",1976-06-30,72971,1852
 WELL,Welltower,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,766704,1970
