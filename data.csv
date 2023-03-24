@@ -32,7 +32,7 @@ AAL,American Airlines Group,Industrials,Passenger Airlines,"Fort Worth, Texas",2
 AEP,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,4904,1906
 AXP,American Express,Financials,Consumer Finance,"New York City, New York",1976-06-30,4962,1850
 AIG,American International Group,Financials,Property & Casualty Insurance,"New York City, New York",1980-03-31,5272,1919
-AMT,American Tower,Real Estate,Specialized REITs,"Boston, Massachusetts",2007-11-19,1053507,1995
+AMT,American Tower,Real Estate,Telecom Tower REITs,"Boston, Massachusetts",2007-11-19,1053507,1995
 AWK,American Water Works,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,1410636,1886
 AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,820027,1894
 ABC,AmerisourceBergen,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,1140859,1985
@@ -134,7 +134,7 @@ CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, India
 CSGP,CoStar Group,Industrials,Research & Consulting Services,"Washington, D.C.",2022-09-19,1057352,1987
 COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1993-10-01,909832,1976
 CTRA,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,858470,2021 (1989)
-CCI,Crown Castle,Real Estate,Specialized REITs,"Houston, Texas",2012-03-14,1051470,1994
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,"Houston, Texas",2012-03-14,1051470,1994
 CSX,CSX,Industrials,Rail Transportation,"Jacksonville, Florida",1957-03-04,277948,1980
 CMI,Cummins,Industrials,Industrial Machinery & Supplies & Components,"Columbus, Indiana",1965-03-31,26172,1919
 CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,64803,1996
@@ -148,7 +148,7 @@ XRAY,Dentsply Sirona,Health Care,Health Care Supplies,"Charlotte, North Carolina
 DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,1090012,1971
 DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,1093557,1999
 FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,1539838,2007
-DLR,Digital Realty,Real Estate,Specialized REITs,"Austin, Texas",2016-05-18,1297996,2004
+DLR,Digital Realty,Real Estate,Data Center REITs,"Austin, Texas",2016-05-18,1297996,2004
 DFS,Discover Financial,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-02,1393612,1985
 DISH,Dish Network,Communication Services,Cable & Satellite,"Meridian, Colorado",2017-03-13,1001082,1980
 DIS,Disney,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
@@ -178,7 +178,7 @@ EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,"Houston, Texas",200
 EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",2021-12-14,1352010,1993
 EQT,EQT,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",2022-10-03,33213,1888
 EFX,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,33185,1899
-EQIX,Equinix,Real Estate,Specialized REITs,"Redwood City, California",2015-03-20,1101239,1998
+EQIX,Equinix,Real Estate,Data Center REITs,"Redwood City, California",2015-03-20,1101239,1998
 EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,906107,1969
 ESS,Essex Property Trust,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,920522,1971
 EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",2006-01-05,1001250,1946
@@ -189,7 +189,7 @@ ES,Eversource,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,72741,1966
 EXC,Exelon,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,1109357,2000
 EXPE,Expedia Group,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2007-10-02,1324424,1996
 EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,746515,1979
-EXR,Extra Space Storage,Real Estate,Specialized REITs,"Salt Lake City, Utah",2016-01-19,1289490,1977
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,"Salt Lake City, Utah",2016-01-19,1289490,1977
 XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,34088,1999
 FFIV,"F5, Inc.",Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,1048695,1996
 FDS,FactSet,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",2021-12-20,1013237,1978
@@ -264,7 +264,7 @@ ISRG,Intuitive Surgical,Health Care,Health Care Equipment,"Sunnyvale, California
 IVZ,Invesco,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,914208,1935
 INVH,Invitation Homes,Real Estate,Residential REITs,"Dallas, Texas",2022-09-19,1687229,2012
 IQV,IQVIA,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1478242,1982
-IRM,Iron Mountain,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
 JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,"Lowell, Arkansas",2015-07-01,728535,1961
 JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,"Monett, Missouri",2018-11-13,779152,1976
 J,Jacobs Solutions,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,52988,1947
@@ -388,7 +388,7 @@ PLD,Prologis,Real Estate,Industrial REITs,"San Francisco, California",2003-07-17
 PRU,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",2002-07-22,1137774,1875
 PEG,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,788784,1903
 PTC,PTC,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,857005,1985
-PSA,Public Storage,Real Estate,Specialized REITs,"Glendale, California",2005-08-19,1393311,1972
+PSA,Public Storage,Real Estate,Self-Storage REITs,"Glendale, California",2005-08-19,1393311,1972
 PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,822416,1956
 QRVO,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,1604778,2015
 PWR,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,1050915,1997
@@ -411,7 +411,7 @@ ROST,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",2009
 RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2014-12-05,884887,1997
 SPGI,S&P Global,Financials,Financial Exchanges & Data,"New York City, New York",1957-03-04,64040,1917
 CRM,Salesforce,Information Technology,Application Software,"San Francisco, California",2008-09-15,1108524,1999
-SBAC,SBA Communications,Real Estate,Specialized REITs,"Boca Raton, Florida",2017-09-01,1034054,1989
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,"Boca Raton, Florida",2017-09-01,1034054,1989
 SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",1957-03-04,87347,1926
 STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",2012-07-02,1137789,1979
 SEE,Sealed Air,Materials,Paper & Plastic Packaging Products & Materials,"Charlotte, North Carolina",1957-03-04,1012100,1960
@@ -489,7 +489,7 @@ WELL,Welltower,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,766704,19
 WST,West Pharmaceutical Services,Health Care,Health Care Supplies,"Exton, Pennsylvania",2020-05-22,105770,1923
 WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,106040,1970
 WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,"Atlanta, Georgia",1957-03-04,1732845,2015
-WY,Weyerhaeuser,Real Estate,Specialized REITs,"Seattle, Washington",,106535,1900
+WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",,106535,1900
 WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
 WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016
