@@ -272,7 +272,7 @@ JNPR,Juniper Networks,Information Technology,Communications Equipment,"Sunnyvale
 K,Kellanova,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1989-09-11,55067,1906
 KVUE,Kenvue,Consumer Staples,Personal Care Products,"Skillman, New Jersey",2023-08-25,1944048,2022 (Johnson & Johnson spinoff)
 KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",2022-06-21,1418135,1981
-KEY,KeyCorp,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,91576,1825
+KEY,KeyBank,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,91576,1825
 KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,1601046,2014 (1939)
 KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",1957-03-04,55785,1872
 KIM,Kimco Realty,Real Estate,Retail REITs,"Jericho, New York",2006-04-04,879101,1958
@@ -385,7 +385,7 @@ PGR,Progressive Corporation,Financials,Property & Casualty Insurance,"Mayfield V
 PLD,Prologis,Real Estate,Industrial REITs,"San Francisco, California",2003-07-17,1045609,1983
 PRU,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",2002-07-22,1137774,1875
 PEG,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,788784,1903
-PTC,PTC,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,857005,1985
+PTC,PTC Inc.,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,857005,1985
 PSA,Public Storage,Real Estate,Self-Storage REITs,"Glendale, California",2005-08-19,1393311,1972
 PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,822416,1956
 QRVO,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,1604778,2015
@@ -393,7 +393,7 @@ PWR,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",2009
 QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1999-07-22,804328,1985
 DGX,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,1022079,1967
 RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2007-02-02,1037038,1967
-RJF,Raymond James,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",2017-03-20,720005,1962
+RJF,Raymond James Financial,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",2017-03-20,720005,1962
 RTX,RTX Corporation,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1957-03-04,101829,1922
 O,Realty Income,Real Estate,Retail REITs,"San Diego, California",2015-04-07,726728,1969
 REG,Regency Centers,Real Estate,Retail REITs,"Jacksonville, Florida",2017-03-02,910606,1963
@@ -453,7 +453,7 @@ TT,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",2010-11-17
 TDG,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,1260221,1993
 TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,86312,1853
 TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",2021-01-21,864749,1978
-TFC,Truist,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,92230,1872
+TFC,Truist Financial,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,92230,1872
 TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,860731,1966
 TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,100493,1935
 USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",1999-11-01,36104,1968
